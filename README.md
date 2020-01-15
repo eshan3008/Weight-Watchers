@@ -1,2 +1,2 @@
 # Weight-Watchers
-Sample Automation test
+Sample Automation test for a website
